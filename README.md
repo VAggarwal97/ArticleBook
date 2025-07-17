@@ -54,3 +54,31 @@ npm install
 Start the server:
 
 npm start
+
+
+Make sure to configure any required environment variables if necessary.
+
+✨ Future Enhancements
+User authentication
+
+Comment section
+
+Article search and tags
+
+Markdown support for rich text
+
+👨‍💻 Author
+Developed by Vishal Aggarwal
+
+All work is original. Please do not copy without permission.
+
+📝 License
+This project is currently not under an open-source license. Usage is allowed for learning and non-commercial purposes only.
+
+📬 Contact
+For suggestions or collaborations, feel free to reach out via GitHub.
+
+
+---
+
+Let me know if you'd like to turn this into a blog CMS with authentication, or need deployment tips for Vercel or other platforms!
